@@ -1,6 +1,6 @@
 ### Welcome! 👋
 
-> My name is Noah do Régo, and I'm currently a student at the **University of Ottawa**. I have experience with several languages, lately I've been using *HTML/CSS, Python, React and C#*.
+My name is Noah do Régo, and I'm currently a student at the **University of Ottawa**. I have experience with several languages, lately I've been using *HTML/CSS, Python, React and C#*.
 
 ### Some of my interests:
 - **Front-end Web Development:** I enjoy designing/creating different styles of websites by wireframing in Figma and learning more about effective UI/UX.
